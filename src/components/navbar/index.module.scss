@@ -1,0 +1,14 @@
+.Navbar {
+    padding: 10px;
+    background: rgb(34, 31, 72);
+    margin: 0;
+}
+
+.ulNavbar {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+}
